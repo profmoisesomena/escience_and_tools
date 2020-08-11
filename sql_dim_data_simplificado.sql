@@ -1,8 +1,8 @@
 Drop table if exists dim_data_simple;
 create table if not exists dim_data_simple as SELECT
+    to_number(to_char(datum, 'yyyymmdd'),'99999999') AS id_integer_date,
     datum AS DATE,
     to_char(datum, 'yyyymmdd') AS Formatted_CHAR_DATE,
-    to_number(to_char(datum, 'yyyymmdd'),'99999999') AS Formatted_INTEGER_DATE,
     EXTRACT(YEAR FROM datum) AS YEAR,
     EXTRACT(MONTH FROM datum) AS MONTH,
     -- Localized month name
@@ -27,4 +27,5 @@ FROM (
     FROM generate_series(0,3652) AS SEQUENCE(DAY)
     GROUP BY SEQUENCE.DAY
  	) DQ
-ORDER BY 1
+ORDER BY 1;
+alter table dim_data_simple add primary key (id_integer_date);
