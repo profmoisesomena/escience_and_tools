@@ -1,0 +1,1000 @@
+"dcod_individuo","version","date_from","date_to","classificacao","evolucao","faixaetaria","idadenadatanotificacao","sexo","racacor","ficouinternado","viagembrasil","viageminternacional"
+0,1,,,,,,,,,,,
+1,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","9 anos, 7 meses, 17 dias",F,Amarela,Não,Não,Não
+2,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"50 a 59 anos","58 anos, 5 meses, 20 dias",F,Preta,Não,Não,Não
+3,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","61 anos, 8 meses, 25 dias",M,Branca,Não,Não,Não
+4,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","64 anos, 4 meses, 11 dias",F,Parda,Não,Não,Não
+5,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 3 meses, 18 dias",F,Parda,Não,Não,Não
+6,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 5 meses, 9 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+7,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","24 anos, 0 meses, 19 dias",F,Branca,Não Informado,Não Informado,Não Informado
+8,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"70 a 79 anos","72 anos, 11 meses, 14 dias",M,Parda,Não Informado,Não Informado,Não Informado
+9,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"10 a 19 anos","18 anos, 10 meses, 16 dias",F,Amarela,Não,Não,Não
+10,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 6 meses, 14 dias",F,Branca,Não Informado,Não Informado,Não Informado
+11,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 0 meses, 6 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+12,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 11 meses, 11 dias",F,Branca,Não Informado,Não Informado,Não Informado
+13,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 0 meses, 20 dias",F,Parda,Não,Não,Não
+14,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","41 anos, 3 meses, 28 dias",M,Parda,Não Informado,Não Informado,Não Informado
+15,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"0 a 4 anos","3 anos, 7 meses, 30 dias",F,Parda,Não,Não,Não
+16,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","1 anos, 9 meses, 6 dias",M,Branca,Não Informado,Não,Não
+17,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","35 anos, 9 meses, 4 dias",F,Branca,Não,Não,Não
+18,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 5 meses, 25 dias",F,Parda,Não,Não,Não
+19,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","36 anos, 0 meses, 18 dias",M,Preta,Não Informado,Não,Não
+20,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 10 meses, 31 dias",F,Parda,Não Informado,Não Informado,Não Informado
+21,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","32 anos, 4 meses, 30 dias",F,Parda,Não Informado,Não Informado,Não Informado
+22,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 0 meses, 21 dias",F,Branca,Não Informado,Não Informado,Não Informado
+23,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 8 meses, 23 dias",F,Parda,Não Informado,Não Informado,Não Informado
+24,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","32 anos, 11 meses, 20 dias",M,Branca,Não Informado,Não Informado,Não Informado
+25,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 3 meses, 6 dias",F,Branca,Não,Não,Não
+26,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"05 a 9 anos","6 anos, 3 meses, 14 dias",M,Branca,Não,Não,Não
+27,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 3 meses, 9 dias",M,Parda,Não,Não Informado,Não Informado
+28,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"20 a 29 anos","23 anos, 2 meses, 15 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+29,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","24 anos, 5 meses, 15 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+30,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 10 meses, 9 dias",F,Amarela,Não,Não,Não
+31,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"50 a 59 anos","55 anos, 6 meses, 20 dias",F,Branca,Não Informado,Não Informado,Não Informado
+32,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 7 meses, 26 dias",F,Preta,Não Informado,Não,Não Informado
+33,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 4 meses, 16 dias",F,Parda,Não,Não Informado,Não Informado
+34,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 9 meses, 17 dias",M,Parda,Não Informado,Sim,Não Informado
+35,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 4 meses, 11 dias",M,Parda,Não,Não,Não
+36,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","53 anos, 1 meses, 9 dias",F,Branca,Não,Não,Não
+37,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","50 anos, 2 meses, 17 dias",M,Parda,Não Informado,Não Informado,Não Informado
+38,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 6 meses, 12 dias",M,Parda,Não,Não Informado,Não Informado
+39,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 2 meses, 20 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+40,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 2 meses, 12 dias",M,Branca,Não Informado,Não Informado,Não Informado
+41,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","58 anos, 11 meses, 15 dias",F,Ignorado,Não,Não,Não
+42,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 2 meses, 12 dias",F,Parda,Não,Não Informado,Não Informado
+43,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","37 anos, 5 meses, 5 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+44,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 6 meses, 14 dias",M,Branca,Não Informado,Não Informado,Não Informado
+45,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","23 anos, 5 meses, 17 dias",M,Branca,Não Informado,Não Informado,Não Informado
+46,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","46 anos, 7 meses, 14 dias",M,Ignorado,Não,Não,Não
+47,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","69 anos, 3 meses, 17 dias",F,Parda,Não Informado,Não Informado,Não Informado
+48,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 4 meses, 6 dias",F,Ignorado,Não,Não,Não
+49,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 0 meses, 9 dias",M,Branca,Não Informado,Não Informado,Não Informado
+50,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 2 meses, 10 dias",M,Parda,Não,Não,Não
+51,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","22 anos, 0 meses, 1 dias",F,Parda,Não,Não,Não
+52,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 0 meses, 28 dias",F,Parda,Não,Não,Não
+53,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"50 a 59 anos","50 anos, 11 meses, 27 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+54,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 10 meses, 10 dias",M,Parda,Não Informado,Não,Não Informado
+55,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","62 anos, 9 meses, 28 dias",F,Branca,Não Informado,Não Informado,Não Informado
+56,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"05 a 9 anos","9 anos, 2 meses, 5 dias",M,Parda,Não,Não,Não
+57,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 11 meses, 24 dias",F,Amarela,Não,Não,Não
+58,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 3 meses, 20 dias",M,Ignorado,Não Informado,Não,Não Informado
+59,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","3 anos, 11 meses, 27 dias",F,Ignorado,Não,Não,Não
+60,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 8 meses, 8 dias",M,Ignorado,Não,Não,Não
+61,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 2 meses, 15 dias",M,Ignorado,Não,Não,Não
+62,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"90 anos ou mais","90 anos, 1 meses, 28 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+63,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 7 meses, 13 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+64,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 6 meses, 8 dias",F,Parda,Não,Não,Não
+65,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 4 meses, 29 dias",F,Branca,Não,Não,Não
+66,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Óbito pelo COVID-19,"50 a 59 anos","56 anos, 0 meses, 19 dias",F,Ignorado,Sim,Não Informado,Não Informado
+67,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 10 meses, 28 dias",M,Parda,Não,Não,Não
+68,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 5 meses, 24 dias",F,Preta,Não Informado,Não Informado,Não Informado
+69,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 1 meses, 16 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+70,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 2 meses, 25 dias",M,Branca,Não,Não,Não
+71,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"40 a 49 anos","48 anos, 2 meses, 2 dias",F,Parda,Não Informado,Não Informado,Não Informado
+72,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 11 meses, 22 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+73,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","30 anos, 2 meses, 4 dias",F,Parda,Não Informado,Não Informado,Não Informado
+74,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Óbito pelo COVID-19,"50 a 59 anos","59 anos, 0 meses, 5 dias",M,Parda,Não Informado,Não Informado,Não Informado
+75,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 11 meses, 30 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+76,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"20 a 29 anos","26 anos, 4 meses, 18 dias",M,Ignorado,Não,Não,Não
+77,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 6 meses, 19 dias",F,Amarela,Não,Ignorado,Ignorado
+78,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 2 meses, 4 dias",M,Branca,Não,Não,Não
+79,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","10 anos, 4 meses, 26 dias",M,Branca,Não,Não,Não
+80,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"60 a 69 anos","62 anos, 8 meses, 9 dias",F,Parda,Não Informado,Não Informado,Não Informado
+81,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 11 meses, 17 dias",F,Parda,Não,Não,Não
+82,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 8 meses, 3 dias",F,Parda,Não Informado,Não Informado,Não Informado
+83,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 7 meses, 18 dias",M,Parda,Não,Não,Não
+84,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"50 a 59 anos","53 anos, 9 meses, 29 dias",F,Branca,Não Informado,Não Informado,Não Informado
+85,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"50 a 59 anos","53 anos, 1 meses, 11 dias",F,Parda,Não Informado,Não Informado,Não Informado
+86,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 3 meses, 23 dias",M,Branca,Não,Não,Não
+87,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 7 meses, 20 dias",M,Parda,Não,Não,Não
+88,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","51 anos, 5 meses, 4 dias",F,Ignorado,Não,Não,Não
+89,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"0 a 4 anos","1 anos, 10 meses, 8 dias",M,Parda,Não,Não,Não
+90,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","10 anos, 2 meses, 20 dias",F,Branca,Não,Não,Não
+91,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"10 a 19 anos","11 anos, 8 meses, 5 dias",M,Parda,Não Informado,Não Informado,Não Informado
+92,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 11 meses, 7 dias",M,Parda,Não,Não,Não
+93,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 10 meses, 23 dias",F,Branca,Não Informado,Não Informado,Não Informado
+94,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"10 a 19 anos","17 anos, 5 meses, 28 dias",M,Parda,Não Informado,Não Informado,Não Informado
+95,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 2 meses, 11 dias",F,Amarela,Não,Não,Não
+96,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 5 meses, 23 dias",M,Preta,Não Informado,Não,Não Informado
+97,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 10 meses, 30 dias",M,Parda,Não,Não,Não
+98,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"30 a 39 anos","36 anos, 0 meses, 24 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+99,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"40 a 49 anos","45 anos, 3 meses, 20 dias",M,Branca,Não,Não,Não
+100,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"05 a 9 anos","9 anos, 4 meses, 22 dias",F,Branca,Não,Não,Não
+101,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 9 meses, 8 dias",M,Branca,Não Informado,Sim,Não Informado
+102,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","4 anos, 1 meses, 4 dias",F,Branca,Não Informado,Não Informado,Não Informado
+103,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 5 meses, 3 dias",M,Parda,Não,Não,Não
+104,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 7 meses, 8 dias",M,Branca,Não,Não,Não
+105,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","13 anos, 9 meses, 4 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+106,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","12 anos, 7 meses, 30 dias",M,Branca,Não,Não,Não
+107,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 4 meses, 2 dias",F,Parda,Não Informado,Não Informado,Não Informado
+108,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 10 meses, 7 dias",F,Branca,Não,Ignorado,Ignorado
+109,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 4 meses, 16 dias",F,Parda,Não Informado,Não,Não Informado
+110,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 0 meses, 13 dias",M,Ignorado,Não Informado,Não,Não
+111,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 10 meses, 5 dias",F,Ignorado,Não,Não,Não
+112,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 8 meses, 16 dias",M,Ignorado,Não,Não,Não
+113,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 2 meses, 10 dias",M,Branca,Ignorado,Ignorado,Ignorado
+114,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","63 anos, 10 meses, 16 dias",F,Amarela,Não Informado,Não,Não Informado
+115,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"40 a 49 anos","49 anos, 5 meses, 12 dias",F,Branca,Não,Não,Não
+116,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 5 meses, 1 dias",F,Amarela,Não,Não,Não
+117,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 7 meses, 8 dias",M,Preta,Não,Não,Não
+118,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 2 meses, 8 dias",F,Parda,Não Informado,Não Informado,Não Informado
+119,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 5 meses, 27 dias",F,Parda,Ignorado,Ignorado,Ignorado
+120,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","18 anos, 6 meses, 9 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+121,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 9 meses, 26 dias",M,Ignorado,Não,Não,Não
+122,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","42 anos, 0 meses, 29 dias",M,Branca,Não,Não,Não
+123,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 2 meses, 7 dias",M,Ignorado,Não,Não,Não
+124,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 9 meses, 24 dias",F,Branca,Não Informado,Não,Não Informado
+125,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","26 anos, 5 meses, 30 dias",F,Branca,Não,Não,Não
+126,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"0 a 4 anos","0 anos, -31 dias",F,Parda,Não,Não Informado,Não Informado
+127,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","36 anos, 2 meses, 2 dias",F,Branca,Não,Não,Não
+128,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","10 anos, 2 meses, 14 dias",F,Ignorado,Não,Não,Não
+129,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"50 a 59 anos","52 anos, 4 meses, 20 dias",M,Parda,Não,Não,Não
+130,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 1 meses, 3 dias",F,Ignorado,Não,Não,Não
+131,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 6 meses, 27 dias",F,Ignorado,Não,Não,Não
+132,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 2 meses, 23 dias",M,Ignorado,Não Informado,Não,Não
+133,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 2 meses, 4 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+134,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 4 meses, 24 dias",M,Branca,Não Informado,Não Informado,Não Informado
+135,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"30 a 39 anos","37 anos, 2 meses, 4 dias",M,Parda,Não Informado,Não Informado,Não Informado
+136,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 0 meses, 28 dias",F,Branca,Não,Não,Não
+137,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","21 anos, 9 meses, 16 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+138,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"40 a 49 anos","40 anos, 7 meses, 29 dias",F,Ignorado,Não,Não,Não
+139,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"05 a 9 anos","6 anos, 3 meses, 12 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+140,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 0 meses, 17 dias",F,Parda,Não Informado,Não Informado,Não Informado
+141,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 10 meses, 19 dias",F,Branca,Não,Não,Não
+142,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","5 anos, 11 meses, 16 dias",F,Parda,Não,Não,Não
+143,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 8 meses, 8 dias",F,Parda,Não Informado,Não,Não Informado
+144,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 5 meses, 16 dias",F,Amarela,Não Informado,Não,Não Informado
+145,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 1 meses, 18 dias",M,Ignorado,Não Informado,Não,Não
+146,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","53 anos, 7 meses, 30 dias",F,Parda,Não Informado,Não Informado,Não Informado
+147,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 3 meses, 6 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+148,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 8 meses, 23 dias",M,Ignorado,Não,Não,Não
+149,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 2 meses, 4 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+150,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 0 meses, 28 dias",F,Ignorado,Não,Não,Não
+151,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 3 meses, 18 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+152,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"05 a 9 anos","9 anos, 9 meses, 29 dias",M,Parda,Não,Não,Não
+153,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 4 meses, 20 dias",F,Parda,Não Informado,Não Informado,Não Informado
+154,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","16 anos, 2 meses, 15 dias",F,Ignorado,Não,Não,Não
+155,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"40 a 49 anos","47 anos, 2 meses, 14 dias",F,Ignorado,Não,Não,Não
+156,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 7 meses, 29 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+157,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 2 meses, 9 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+158,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 4 meses, 11 dias",M,Parda,Não Informado,Não Informado,Não Informado
+159,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 11 meses, 11 dias",M,Parda,Não Informado,Não Informado,Não Informado
+160,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"0 a 4 anos","0 anos, 5 meses, 5 dias",F,Branca,Não,Não,Não
+161,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"30 a 39 anos","36 anos, 1 meses, 10 dias",M,Parda,Não Informado,Não Informado,Não Informado
+162,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 2 meses, 17 dias",M,Parda,Não,Não,Não
+163,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","51 anos, 6 meses, 21 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+164,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 4 meses, 4 dias",F,Amarela,Não Informado,Não,Não Informado
+165,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 11 meses, 14 dias",M,Parda,Não,Não,Não Informado
+166,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 0 meses, 13 dias",M,Parda,Não Informado,Não Informado,Não Informado
+167,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 3 meses, 28 dias",I,Ignorado,Não Informado,Não Informado,Não Informado
+168,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 10 meses, 7 dias",M,Parda,Não Informado,Não Informado,Não Informado
+169,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 5 meses, 14 dias",M,Parda,Não,Não,Não
+170,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 8 meses, 31 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+171,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 7 meses, 28 dias",M,Ignorado,Não,Não,Não
+172,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","24 anos, 0 meses, 22 dias",F,Preta,Não Informado,Não Informado,Não Informado
+173,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 3 meses, 31 dias",M,Parda,Não,Não,Não
+174,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","7 anos, 11 meses, 13 dias",F,Branca,Não,Não,Não
+175,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","38 anos, 7 meses, 29 dias",M,Branca,Não,Não,Não
+176,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","35 anos, 11 meses, 25 dias",M,Parda,Não Informado,Não Informado,Não Informado
+177,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 9 meses, 29 dias",M,Amarela,Não,Não,Não
+178,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 11 meses, 26 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+179,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"0 a 4 anos","4 anos, 5 meses, 18 dias",M,Branca,Não,Não,Não
+180,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 2 meses, 12 dias",M,Parda,Não Informado,Não Informado,Não Informado
+181,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","29 anos, 8 meses, 10 dias",F,Branca,Não Informado,Não Informado,Não Informado
+182,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","32 anos, 7 meses, 5 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+183,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","37 anos, 7 meses, 4 dias",F,Parda,Não,Não,Não
+184,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 0 meses, 13 dias",M,Preta,Não,Não,Não
+185,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 1 meses, 20 dias",M,Ignorado,Não,Não,Não
+186,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","57 anos, 10 meses, 5 dias",M,Branca,Não,Não,Não
+187,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 4 meses, 11 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+188,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 1 meses, 23 dias",M,Preta,Não Informado,Não Informado,Não Informado
+189,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 7 meses, 25 dias",M,Preta,Não Informado,Não Informado,Não Informado
+190,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 2 meses, 11 dias",M,Branca,Não,Não,Não
+191,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 4 meses, 30 dias",M,Preta,Não Informado,Não Informado,Não Informado
+192,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","42 anos, 9 meses, 24 dias",F,Parda,Não,Não,Não
+193,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 6 meses, 26 dias",M,Preta,Não Informado,Não Informado,Não Informado
+194,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","22 anos, 5 meses, 16 dias",F,Branca,Não,Não,Não
+195,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 6 meses, 21 dias",M,Preta,Não,Não,Não Informado
+196,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 2 meses, 24 dias",M,Branca,Não,Não,Não
+197,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 5 meses, 4 dias",F,Parda,Não Informado,Não Informado,Não Informado
+198,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 7 meses, 18 dias",F,Parda,Não Informado,Não Informado,Não Informado
+199,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 1 meses, 12 dias",F,Parda,Não Informado,Não Informado,Não Informado
+200,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 2 meses, 14 dias",M,Branca,Não,Não,Não
+201,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 8 meses, 28 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+202,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 1 meses, 7 dias",M,Branca,Não Informado,Não Informado,Não Informado
+203,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 10 meses, 13 dias",M,Parda,Não Informado,Não Informado,Não Informado
+204,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","16 anos, 4 meses, 14 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+205,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"80 a 89 anos","84 anos, 4 meses, 7 dias",M,Parda,Não Informado,Não Informado,Não Informado
+206,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","25 anos, 4 meses, 27 dias",F,Branca,Não,Não,Não
+207,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","70 anos, 0 meses, 23 dias",M,Parda,Não Informado,Não Informado,Não Informado
+208,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"10 a 19 anos","17 anos, 2 meses, 9 dias",F,Parda,Não Informado,Não,Não Informado
+209,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 2 meses, 1 dias",M,Parda,Não Informado,Não Informado,Não Informado
+210,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 8 meses, 10 dias",F,Parda,Não Informado,Não Informado,Não Informado
+211,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 7 meses, 29 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+212,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 3 meses, 7 dias",M,Branca,Não,Sim,Não
+213,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 1 meses, 28 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+214,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 9 meses, 19 dias",M,Branca,Não,Sim,Não
+215,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 7 meses, 3 dias",M,Branca,Não,Não,Não
+216,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"05 a 9 anos","5 anos, 1 meses, 23 dias",M,Ignorado,Não,Não,Não
+217,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","32 anos, 6 meses, 24 dias",F,Parda,Não Informado,Não Informado,Não Informado
+218,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 1 meses, 25 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+219,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 5 meses, 9 dias",M,Preta,Não,Não,Não
+220,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 2 meses, 4 dias",M,Parda,Não,Não,Não
+221,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 5 meses, 5 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+222,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 2 meses, 25 dias",M,Parda,Não Informado,Não Informado,Não Informado
+223,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","21 anos, 2 meses, 28 dias",F,Ignorado,Não,Não,Não
+224,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 5 meses, 19 dias",M,Branca,Não Informado,Não Informado,Não Informado
+225,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","32 anos, 1 meses, 13 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+226,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 4 meses, 13 dias",M,Parda,Não Informado,Não Informado,Não Informado
+227,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 5 meses, 4 dias",M,Branca,Não,Ignorado,Não Informado
+228,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 0 meses, 26 dias",M,Branca,Não Informado,Não Informado,Não Informado
+229,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 1 meses, 25 dias",M,Parda,Não Informado,Não Informado,Não Informado
+230,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"40 a 49 anos","45 anos, 7 meses, 12 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+231,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 0 meses, 18 dias",F,Parda,Não Informado,Não Informado,Não Informado
+232,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","14 anos, 4 meses, 27 dias",M,Parda,Não Informado,Não Informado,Não Informado
+233,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","7 anos, 4 meses, 4 dias",F,Ignorado,Não,Não,Não
+234,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","30 anos, 7 meses, 19 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+235,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"80 a 89 anos","85 anos, 0 meses, 11 dias",M,Parda,Não Informado,Não Informado,Não Informado
+236,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 1 meses, 3 dias",F,Branca,Não Informado,Não Informado,Não Informado
+237,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 7 meses, 23 dias",F,Preta,Não Informado,Não Informado,Não Informado
+238,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 7 meses, 27 dias",F,Branca,Não Informado,Não Informado,Não Informado
+239,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","72 anos, 10 meses, 25 dias",M,Ignorado,Não,Não,Não
+240,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 7 meses, 20 dias",M,Parda,Não Informado,Não Informado,Não Informado
+241,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 3 meses, 24 dias",F,Ignorado,Ignorado,Ignorado,Ignorado
+242,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 9 meses, 28 dias",M,Preta,Não Informado,Não Informado,Não Informado
+243,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 1 meses, 5 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+244,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 2 meses, 24 dias",M,Parda,Não Informado,Não Informado,Não Informado
+245,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","37 anos, 7 meses, 12 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+246,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 10 meses, 26 dias",M,Ignorado,Não,Não,Não
+247,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"0 a 4 anos","4 anos, 6 meses, 5 dias",F,Branca,Não Informado,Não Informado,Não Informado
+248,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 9 meses, 6 dias",F,Parda,Não Informado,Não Informado,Não Informado
+249,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 11 meses, 10 dias",F,Branca,Não Informado,Não Informado,Não Informado
+250,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","5 anos, 8 meses, 23 dias",F,Branca,Não Informado,Não,Não
+251,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 5 meses, 3 dias",F,Branca,Não,Não,Não
+252,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","9 anos, 9 meses, 15 dias",F,Ignorado,Não,Não,Não
+253,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 5 meses, 21 dias",F,Branca,Não,Sim,Não
+254,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 10 meses, 28 dias",F,Branca,Não Informado,Não Informado,Não Informado
+255,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 3 meses, 26 dias",M,Parda,Não,Não,Não Informado
+256,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 8 meses, 31 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+257,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 1 meses, 27 dias",F,Branca,Não Informado,Não Informado,Não Informado
+258,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 10 meses, 27 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+259,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 10 meses, 24 dias",F,Branca,Não Informado,Não Informado,Não Informado
+260,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 1 meses, 2 dias",M,Ignorado,Não,Não,Não
+261,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 0 meses, 13 dias",M,Parda,Não Informado,Não Informado,Não Informado
+262,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","25 anos, 1 meses, 10 dias",F,Branca,Não Informado,Não Informado,Não Informado
+263,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 3 meses, 22 dias",F,Branca,Não Informado,Não Informado,Não Informado
+264,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 5 meses, 11 dias",F,Parda,Não Informado,Não Informado,Não Informado
+265,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 11 meses, 30 dias",M,Parda,Não Informado,Não Informado,Não Informado
+266,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 2 meses, 27 dias",F,Parda,Não Informado,Não Informado,Não Informado
+267,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 10 meses, 15 dias",F,Branca,Não Informado,Não Informado,Não Informado
+268,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 0 meses, 5 dias",M,Branca,Não Informado,Não Informado,Não Informado
+269,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 6 meses, 2 dias",M,Parda,Não Informado,Não Informado,Não Informado
+270,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 5 meses, 1 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+271,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 5 meses, 6 dias",M,Branca,Não Informado,Não Informado,Não Informado
+272,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 1 meses, 17 dias",F,Parda,Não Informado,Não Informado,Não Informado
+273,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"05 a 9 anos","9 anos, 4 meses, 12 dias",M,Branca,Não,Não,Não
+274,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 6 meses, 27 dias",M,Parda,Não Informado,Não Informado,Não Informado
+275,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 4 meses, 25 dias",M,Branca,Não,Não,Não
+276,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 2 meses, 19 dias",F,Branca,Não Informado,Não,Não
+277,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 5 meses, 30 dias",M,Parda,Não Informado,Não Informado,Não Informado
+278,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 6 meses, 3 dias",F,Parda,Não,Não,Não
+279,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","1 anos, 1 meses, 24 dias",M,Ignorado,Não,Não,Não
+280,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","57 anos, 5 meses, 7 dias",F,Parda,Não Informado,Não,Não Informado
+281,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 7 meses, 23 dias",F,Parda,Não Informado,Não Informado,Não Informado
+282,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 5 meses, 16 dias",F,Parda,Não Informado,Não Informado,Não Informado
+283,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"40 a 49 anos","48 anos, 3 meses, 6 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+284,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","65 anos, 9 meses, 27 dias",F,Branca,Não Informado,Não Informado,Não Informado
+285,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 3 meses, 15 dias",M,Branca,Não Informado,Não Informado,Não Informado
+286,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 10 meses, 23 dias",F,Preta,Não Informado,Não Informado,Não Informado
+287,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 6 meses, 23 dias",F,Branca,Não Informado,Não Informado,Não Informado
+288,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 7 meses, 3 dias",F,Branca,Não Informado,Não Informado,Não Informado
+289,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 0 meses, 10 dias",M,Branca,Não,Não,Não
+290,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 8 meses, 24 dias",M,Branca,Não Informado,Não Informado,Não Informado
+291,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 10 meses, 12 dias",F,Branca,Não Informado,Não Informado,Não Informado
+292,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 3 meses, 28 dias",M,Parda,Não Informado,Não Informado,Não Informado
+293,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 4 meses, 12 dias",F,Branca,Não Informado,Não Informado,Não Informado
+294,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"50 a 59 anos","50 anos, 4 meses, 8 dias",M,Ignorado,Não,Não,Não
+295,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Óbito pelo COVID-19,"60 a 69 anos","62 anos, 11 meses, 2 dias",F,Branca,Sim,Ignorado,Ignorado
+296,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","20 anos, 10 meses, 9 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+347,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"20 a 29 anos","23 anos, 9 meses, 1 dias",F,Branca,Não,Não,Não
+297,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","27 anos, 10 meses, 1 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+298,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 5 meses, 6 dias",F,Branca,Não,Não,Não
+299,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 2 meses, 7 dias",M,Parda,Não,Não,Não
+300,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 9 meses, 1 dias",M,Preta,Não Informado,Não Informado,Não Informado
+301,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","55 anos, 4 meses, 9 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+302,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 9 meses, 14 dias",F,Branca,Não Informado,Não Informado,Não Informado
+303,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 3 meses, 28 dias",F,Parda,Não Informado,Não Informado,Não Informado
+304,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 7 meses, 22 dias",F,Branca,Não Informado,Não Informado,Não Informado
+305,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 0 meses, 6 dias",F,Amarela,Não,Não,Não
+306,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 3 meses, 17 dias",M,Parda,Não Informado,Não,Não
+307,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 2 meses, 23 dias",F,Branca,Não Informado,Não Informado,Não Informado
+308,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","15 anos, 1 meses, 26 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+309,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 10 meses, 8 dias",M,Parda,Não,Não,Não
+310,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"50 a 59 anos","53 anos, 1 meses, 10 dias",F,Branca,Não,Não,Não
+311,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 6 meses, 27 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+312,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 7 meses, 1 dias",M,Parda,Não Informado,Sim,Ignorado
+313,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 10 meses, 20 dias",M,Parda,Não,Não,Não
+314,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 5 meses, 3 dias",F,Parda,Não Informado,Não Informado,Não Informado
+315,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","8 anos, 4 meses, 10 dias",F,Parda,Não Informado,Não Informado,Não Informado
+316,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","68 anos, 11 meses, 7 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+317,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 3 meses, 5 dias",M,Preta,Não Informado,Não,Não
+318,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 4 meses, 18 dias",F,Parda,Não Informado,Não Informado,Não Informado
+319,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"05 a 9 anos","7 anos, 9 meses, 23 dias",F,Parda,Não,Não,Não
+320,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 9 meses, 28 dias",F,Branca,Não,Ignorado,Não Informado
+321,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 2 meses, 3 dias",M,Ignorado,Não,Não,Não
+322,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 5 meses, 2 dias",M,Preta,Não Informado,Não Informado,Não Informado
+323,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 10 meses, 22 dias",M,Parda,Não Informado,Não Informado,Não Informado
+324,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","31 anos, 6 meses, 16 dias",F,Branca,Ignorado,Ignorado,Não
+325,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"90 anos ou mais","90 anos, 5 meses, 23 dias",F,Ignorado,Não,Não,Não
+326,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 11 meses, 1 dias",F,Parda,Não Informado,Não Informado,Não Informado
+327,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 0 meses, 6 dias",F,Parda,Não,Não,Não
+328,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"40 a 49 anos","44 anos, 6 meses, 4 dias",M,Parda,Não Informado,Não Informado,Não Informado
+329,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","2 anos, 9 meses, 10 dias",M,Parda,Não,Não,Não
+330,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 2 meses, 4 dias",M,Ignorado,Não Informado,Não,Não
+331,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 8 meses, 26 dias",M,Parda,Não,Não,Não
+332,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 0 meses, 10 dias",F,Branca,Não Informado,Não Informado,Não Informado
+333,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","19 anos, 0 meses, 3 dias",M,Preta,Não,Não Informado,Não Informado
+334,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","33 anos, 11 meses, 30 dias",F,Parda,Não,Não Informado,Não Informado
+335,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","9 anos, 5 meses, 7 dias",F,Branca,Não Informado,Não Informado,Não Informado
+336,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","0 anos, 5 meses, 8 dias",M,Parda,Não,Não Informado,Não Informado
+337,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 9 meses, 4 dias",F,Ignorado,Não,Não,Não
+338,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"90 anos ou mais","92 anos, 2 meses, 10 dias",F,Branca,Não,Não,Não
+339,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","63 anos, 2 meses, 21 dias",M,Parda,Sim,Não,Não
+340,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"80 a 89 anos","82 anos, 9 meses, 29 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+341,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","7 anos, 4 meses, 5 dias",M,Parda,Não Informado,Não Informado,Não Informado
+342,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"0 a 4 anos","0 anos, 0 meses, 2 dias",F,Amarela,Não,Não,Não
+343,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","47 anos, 2 meses, 2 dias",F,Ignorado,Não,Não,Não
+344,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 7 meses, 8 dias",M,Parda,Não Informado,Não Informado,Não Informado
+345,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 1 meses, 3 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+346,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","21 anos, 8 meses, 25 dias",M,Parda,Não Informado,Não Informado,Não Informado
+348,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 2 meses, 19 dias",M,Parda,Não,Não,Não
+349,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","19 anos, 0 meses, 17 dias",F,Parda,Não Informado,Não,Não Informado
+350,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"80 a 89 anos","80 anos, 8 meses, 9 dias",M,Parda,Não Informado,Não Informado,Não Informado
+351,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","2 anos, 3 meses, 22 dias",F,Parda,Não Informado,Não Informado,Não Informado
+352,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","44 anos, 6 meses, 19 dias",F,Branca,Não Informado,Não Informado,Não Informado
+353,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","77 anos, 1 meses, 19 dias",M,Preta,Não Informado,Não Informado,Não Informado
+354,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 5 meses, 23 dias",F,Branca,Não Informado,Não Informado,Não Informado
+355,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"40 a 49 anos","49 anos, 9 meses, 17 dias",M,Preta,Não Informado,Não Informado,Não Informado
+356,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 4 meses, 16 dias",F,Parda,Não,Não,Não
+357,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","36 anos, 6 meses, 4 dias",M,Parda,Não Informado,Não Informado,Não Informado
+358,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 0 meses, 27 dias",F,Ignorado,Não,Não,Não
+359,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","64 anos, 0 meses, 7 dias",F,Parda,Não Informado,Não Informado,Não Informado
+360,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","10 anos, 5 meses, 17 dias",F,Parda,Não Informado,Não Informado,Não Informado
+361,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","33 anos, 10 meses, 20 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+362,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","2 anos, 3 meses, 15 dias",F,Ignorado,Não,Não,Não
+363,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 7 meses, 23 dias",F,Branca,Não Informado,Sim,Não
+364,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 1 meses, 13 dias",M,Parda,Não,Não,Não
+365,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 4 meses, 14 dias",M,Branca,Não,Não,Não
+366,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"80 a 89 anos","83 anos, 3 meses, 9 dias",F,Branca,Não Informado,Não Informado,Não Informado
+367,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 1 meses, 29 dias",M,Branca,Não Informado,Sim,Não Informado
+368,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","76 anos, 4 meses, 13 dias",F,Parda,Não,Não,Não
+369,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 1 meses, 12 dias",M,Branca,Não,Não,Não
+370,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 4 meses, 24 dias",F,Parda,Não Informado,Não Informado,Não Informado
+371,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 6 meses, 22 dias",M,Preta,Não,Não,Não
+372,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"60 a 69 anos","62 anos, 11 meses, 10 dias",M,Parda,Não Informado,Não Informado,Não Informado
+373,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 11 meses, 30 dias",F,Parda,Não,Não,Não
+374,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 8 meses, 16 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+375,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"40 a 49 anos","44 anos, 6 meses, 4 dias",F,Branca,Não,Não,Não
+376,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 9 meses, 30 dias",M,Parda,Não Informado,Não Informado,Não Informado
+377,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 9 meses, 29 dias",M,Parda,Não,Não,Não
+378,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","7 anos, 9 meses, 8 dias",M,Branca,Não Informado,Não Informado,Não Informado
+379,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 2 meses, 15 dias",M,Parda,Não,Não,Não
+380,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 7 meses, 22 dias",M,Parda,Não,Não,Não
+381,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 9 meses, 19 dias",F,Parda,Não,Não Informado,Não Informado
+382,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Óbito pelo COVID-19,"50 a 59 anos","50 anos, 2 meses, 3 dias",M,Ignorado,Sim,Não,Não
+383,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 8 meses, 17 dias",F,Branca,Não,Não,Não
+384,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"20 a 29 anos","29 anos, 11 meses, 22 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+385,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 3 meses, 6 dias",M,Preta,Não,Não,Não
+386,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"20 a 29 anos","21 anos, 1 meses, 31 dias",M,Branca,Não Informado,Não Informado,Não Informado
+387,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 11 meses, 12 dias",F,Branca,Não,Não,Não
+388,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","58 anos, 11 meses, 27 dias",M,Parda,Não Informado,Não Informado,Não Informado
+389,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 10 meses, 30 dias",M,Parda,Não Informado,Não Informado,Não Informado
+390,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 3 meses, 12 dias",M,Branca,Não Informado,Não Informado,Não Informado
+391,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","16 anos, 11 meses, 16 dias",F,Branca,Não Informado,Não Informado,Não Informado
+392,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 3 meses, 12 dias",F,Branca,Não Informado,Não Informado,Não Informado
+393,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 10 meses, 25 dias",F,Ignorado,Não,Não,Não
+394,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"10 a 19 anos","18 anos, 2 meses, 8 dias",M,Branca,Não Informado,Não Informado,Não Informado
+395,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"40 a 49 anos","41 anos, 10 meses, 18 dias",F,Parda,Não,Não,Não
+396,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 0 meses, 10 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+448,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 1 meses, 12 dias",M,Ignorado,Não,Não,Não
+397,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 11 meses, 23 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+398,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","38 anos, 1 meses, 5 dias",F,Branca,Não,Não,Não
+399,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","67 anos, 6 meses, 18 dias",F,Parda,Não Informado,Não Informado,Não Informado
+400,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"30 a 39 anos","32 anos, 5 meses, 4 dias",F,Branca,Não Informado,Não,Não Informado
+401,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"0 a 4 anos","2 anos, 3 meses, 31 dias",M,Parda,Não Informado,Não Informado,Não Informado
+402,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 2 meses, 14 dias",F,Branca,Não Informado,Não,Não Informado
+403,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 10 meses, 18 dias",M,Ignorado,Não,Não,Não
+404,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 10 meses, 22 dias",F,Parda,Não,Não,Não
+405,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 6 meses, 31 dias",M,Ignorado,Não,Não,Não
+406,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 7 meses, 22 dias",M,Parda,Não,Não,Não Informado
+407,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 4 meses, 3 dias",F,Parda,Não Informado,Não Informado,Não Informado
+408,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 6 meses, 25 dias",M,Branca,Não Informado,Não,Não Informado
+409,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","12 anos, 10 meses, 5 dias",F,Parda,Não Informado,Não Informado,Não Informado
+410,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 11 meses, 21 dias",F,Parda,Não,Não,Não
+411,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"60 a 69 anos","62 anos, 7 meses, 10 dias",F,Parda,Não,Não,Não
+412,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","13 anos, 6 meses, 5 dias",M,Branca,Não,Não,Não
+413,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","73 anos, 3 meses, 30 dias",F,Parda,Ignorado,Ignorado,Não Informado
+414,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 10 meses, 11 dias",F,Branca,Não,Não,Não
+415,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"40 a 49 anos","42 anos, 10 meses, 21 dias",M,Ignorado,Não,Não,Não
+416,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 9 meses, 23 dias",M,Parda,Não,Não Informado,Não Informado
+417,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 7 meses, 18 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+418,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","34 anos, 10 meses, 26 dias",F,Ignorado,Não,Não,Não
+419,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"60 a 69 anos","69 anos, 3 meses, 16 dias",F,Branca,Não,Não,Não
+420,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 9 meses, 24 dias",F,Parda,Não Informado,Não Informado,Não Informado
+421,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 11 meses, 25 dias",F,Preta,Não Informado,Não Informado,Não Informado
+422,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"05 a 9 anos","5 anos, 11 meses, 16 dias",F,Parda,Não,Não,Não
+423,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"40 a 49 anos","46 anos, 3 meses, 25 dias",M,Parda,Não,Não,Não
+424,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","30 anos, 1 meses, 12 dias",M,Ignorado,Não,Não,Não
+425,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","57 anos, 10 meses, 1 dias",M,Parda,Não,Não,Não
+426,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 5 meses, 10 dias",M,Branca,Não,Não,Não
+427,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","24 anos, 4 meses, 16 dias",F,Parda,Não Informado,Não Informado,Não Informado
+428,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 7 meses, 18 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+429,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 9 meses, 1 dias",F,Branca,Não Informado,Não Informado,Não Informado
+430,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 11 meses, 16 dias",M,Preta,Não,Não,Não
+431,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 6 meses, 28 dias",M,Parda,Não Informado,Não Informado,Não Informado
+432,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 4 meses, 12 dias",F,Preta,Não,Não,Não
+433,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"50 a 59 anos","52 anos, 5 meses, 21 dias",F,Branca,Não Informado,Não Informado,Não Informado
+434,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"10 a 19 anos","11 anos, 8 meses, 28 dias",M,Parda,Não,Não,Não
+435,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","66 anos, 10 meses, 14 dias",F,Ignorado,Não Informado,Não,Não Informado
+436,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 4 meses, 21 dias",M,Ignorado,Não,Não,Não
+437,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 5 meses, 8 dias",M,Parda,Não Informado,Não Informado,Não Informado
+438,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"0 a 4 anos","1 anos, 6 meses, 23 dias",F,Branca,Não,Não,Não
+439,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 8 meses, 14 dias",F,Branca,Não,Não,Não
+440,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 2 meses, 13 dias",F,Branca,Não Informado,Não Informado,Não Informado
+441,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","1 anos, 9 meses, 19 dias",F,Parda,Não,Não,Não
+442,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 11 meses, 12 dias",M,Parda,Não Informado,Não Informado,Não Informado
+443,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 0 meses, 17 dias",F,Parda,Não Informado,Não Informado,Não Informado
+444,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","19 anos, 11 meses, 23 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+445,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"0 a 4 anos","1 anos, 1 meses, 15 dias",F,Branca,Não,Não,Não
+446,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","23 anos, 7 meses, 21 dias",M,Branca,Não,Não,Não
+447,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 7 meses, 27 dias",F,Parda,Não Informado,Não Informado,Não Informado
+449,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 9 meses, 26 dias",F,Branca,Não Informado,Não Informado,Não Informado
+450,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","53 anos, 2 meses, 20 dias",M,Parda,Não,Não,Não
+451,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 9 meses, 29 dias",F,Branca,Ignorado,Ignorado,Ignorado
+452,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"0 a 4 anos","2 anos, 5 meses, 17 dias",F,Branca,Não Informado,Não Informado,Não Informado
+453,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 2 meses, 15 dias",M,Parda,Não Informado,Não Informado,Não Informado
+454,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 3 meses, 7 dias",F,Parda,Não,Não,Não
+455,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Óbito pelo COVID-19,"70 a 79 anos","75 anos, 2 meses, 24 dias",M,Parda,Sim,Não Informado,Não Informado
+456,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 6 meses, 21 dias",F,Branca,Não Informado,Não Informado,Não Informado
+457,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 0 meses, 17 dias",M,Parda,Não,Não,Não
+458,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","18 anos, 4 meses, 27 dias",M,Parda,Não,Não,Não
+459,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 4 meses, 27 dias",M,Parda,Não,Não,Não
+460,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 10 meses, 5 dias",M,Parda,Não Informado,Não Informado,Não Informado
+461,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 0 meses, 25 dias",F,Amarela,Não,Não,Não
+462,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 10 meses, 6 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+463,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 2 meses, 5 dias",F,Parda,Não Informado,Não Informado,Não Informado
+464,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","69 anos, 1 meses, 14 dias",F,Branca,Ignorado,Ignorado,Ignorado
+465,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","0 anos, 0 meses, 28 dias",F,Branca,Não,Não,Não Informado
+466,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","14 anos, 11 meses, 18 dias",M,Branca,Não,Não,Não
+467,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 11 meses, 23 dias",M,Parda,Não,Não,Não
+468,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 9 meses, 5 dias",F,Parda,Não Informado,Não Informado,Não Informado
+469,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 10 meses, 28 dias",F,Branca,Não,Não,Não
+470,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"50 a 59 anos","56 anos, 9 meses, 19 dias",M,Ignorado,Não,Não,Não
+471,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 1 meses, 25 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+472,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 8 meses, 7 dias",F,Ignorado,Não,Não,Não
+473,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 5 meses, 24 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+474,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 1 meses, 20 dias",F,Branca,Não Informado,Não Informado,Não Informado
+475,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 8 meses, 19 dias",F,Parda,Não Informado,Não Informado,Não Informado
+476,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 2 meses, 6 dias",M,Ignorado,Não,Não,Não
+477,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 2 meses, 15 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+478,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 6 meses, 8 dias",F,Branca,Não,Não,Não
+479,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 6 meses, 30 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+480,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 10 meses, 11 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+481,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"0 a 4 anos","1 anos, 0 meses, 4 dias",M,Branca,Não Informado,Não Informado,Não Informado
+482,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 7 meses, 16 dias",F,Branca,Não,Não,Não Informado
+483,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 1 meses, 3 dias",F,Branca,Não Informado,Não Informado,Não Informado
+484,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","21 anos, 9 meses, 12 dias",F,Branca,Não,Não,Não
+485,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 3 meses, 20 dias",F,Parda,Não,Não,Não
+486,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","57 anos, 3 meses, 9 dias",F,Ignorado,Não,Não,Não
+487,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","10 anos, 11 meses, 30 dias",M,Ignorado,Não,Não,Não
+488,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","50 anos, 11 meses, 28 dias",F,Parda,Não,Não,Não
+489,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 9 meses, 13 dias",F,Ignorado,Não,Não,Não
+490,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 4 meses, 29 dias",M,Parda,Não Informado,Não Informado,Não Informado
+491,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 10 meses, 18 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+492,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 9 meses, 5 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+493,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","62 anos, 5 meses, 20 dias",M,Branca,Não Informado,Não Informado,Não Informado
+494,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 2 meses, 6 dias",M,Parda,Não Informado,Não Informado,Não Informado
+495,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","15 anos, 9 meses, 2 dias",F,Branca,Não Informado,Não Informado,Não Informado
+496,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 0 meses, 23 dias",M,Parda,Não,Não,Não
+497,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 7 meses, 6 dias",M,Branca,Não,Não,Não
+498,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 8 meses, 30 dias",M,Parda,Não Informado,Não Informado,Não Informado
+499,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 5 meses, 5 dias",F,Ignorado,Não,Não,Não
+500,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 1 meses, 19 dias",F,Parda,Não,Não,Não Informado
+501,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","55 anos, 2 meses, 22 dias",M,Parda,Não Informado,Não Informado,Não Informado
+502,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","49 anos, 9 meses, 23 dias",M,Ignorado,Não,Não,Não
+503,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 7 meses, 16 dias",F,Parda,Não Informado,Não Informado,Não Informado
+504,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 0 meses, 7 dias",M,Branca,Não Informado,Não Informado,Não Informado
+505,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","21 anos, 10 meses, 15 dias",F,Ignorado,Não,Não,Não
+506,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 10 meses, 15 dias",F,Parda,Não,Não,Não
+507,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 5 meses, 9 dias",M,Parda,Não Informado,Não Informado,Não Informado
+508,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 3 meses, 25 dias",M,Parda,Não Informado,Não Informado,Não Informado
+509,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 8 meses, 30 dias",F,Branca,Não Informado,Não Informado,Não Informado
+510,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","59 anos, 8 meses, 8 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+511,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 4 meses, 31 dias",M,Branca,Não Informado,Não Informado,Não Informado
+512,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 7 meses, 29 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+513,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 1 meses, 9 dias",F,Parda,Não Informado,Não Informado,Não Informado
+514,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 3 meses, 27 dias",M,Parda,Não,Não,Não
+515,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 10 meses, 8 dias",F,Parda,Não Informado,Não Informado,Não Informado
+516,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 3 meses, 22 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+517,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 11 meses, 13 dias",M,Parda,Não,Não,Não
+518,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 4 meses, 16 dias",F,Ignorado,Não,Não,Não
+519,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 7 meses, 28 dias",M,Parda,Não Informado,Não Informado,Não Informado
+520,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 0 meses, 26 dias",M,Parda,Não Informado,Não Informado,Não Informado
+521,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 5 meses, 22 dias",M,Parda,Não Informado,Não Informado,Não Informado
+522,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","21 anos, 10 meses, 25 dias",F,Preta,Não Informado,Não Informado,Não Informado
+523,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 10 meses, 26 dias",M,Parda,Não Informado,Não Informado,Não Informado
+524,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 1 meses, 21 dias",M,Branca,Não Informado,Não Informado,Não Informado
+525,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 5 meses, 19 dias",M,Parda,Não Informado,Não Informado,Não Informado
+526,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 1 meses, 19 dias",F,Preta,Não Informado,Não Informado,Não Informado
+527,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 9 meses, 21 dias",F,Parda,Não Informado,Não Informado,Não Informado
+528,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","55 anos, 4 meses, 14 dias",F,Branca,Não Informado,Não Informado,Não Informado
+529,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 10 meses, 9 dias",M,Parda,Não Informado,Não Informado,Não Informado
+530,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 5 meses, 10 dias",M,Parda,Não Informado,Não Informado,Não Informado
+531,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 8 meses, 21 dias",F,Branca,Não Informado,Não Informado,Não Informado
+532,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 10 meses, 17 dias",M,Parda,Não,Não,Não
+533,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","58 anos, 4 meses, 22 dias",F,Branca,Não Informado,Não Informado,Não Informado
+534,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 5 meses, 25 dias",M,Parda,Não Informado,Não Informado,Não Informado
+535,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 1 meses, 19 dias",M,Parda,Não Informado,Não Informado,Não Informado
+536,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 8 meses, 3 dias",M,Parda,Não Informado,Não Informado,Não Informado
+537,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 7 meses, 27 dias",M,Parda,Não,Não,Não Informado
+538,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","24 anos, 3 meses, 1 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+539,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 8 meses, 28 dias",F,Branca,Não Informado,Não Informado,Não Informado
+540,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 6 meses, 9 dias",M,Branca,Não Informado,Não Informado,Não Informado
+541,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 10 meses, 13 dias",M,Parda,Não Informado,Não Informado,Não Informado
+542,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 8 meses, 13 dias",M,Parda,Não Informado,Não Informado,Não Informado
+543,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","53 anos, 11 meses, 11 dias",M,Branca,Não Informado,Não Informado,Não Informado
+544,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 6 meses, 6 dias",M,Branca,Não Informado,Não Informado,Não Informado
+545,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 2 meses, 5 dias",M,Parda,Não Informado,Não Informado,Não Informado
+546,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 9 meses, 7 dias",M,Branca,Não Informado,Não Informado,Não Informado
+547,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 4 meses, 11 dias",M,Parda,Não Informado,Não Informado,Não Informado
+548,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","71 anos, 9 meses, 1 dias",F,Ignorado,Não,Não,Não
+549,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 2 meses, 8 dias",F,Branca,Não Informado,Não Informado,Não Informado
+550,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","22 anos, 10 meses, 29 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+551,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 1 meses, 29 dias",F,Branca,Não Informado,Não Informado,Não Informado
+552,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 11 meses, 17 dias",M,Branca,Não,Não,Não
+553,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 10 meses, 12 dias",F,Branca,Não,Não,Não
+554,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 2 meses, 19 dias",M,Parda,Não Informado,Não Informado,Não Informado
+555,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 2 meses, 23 dias",M,Parda,Não Informado,Não Informado,Não Informado
+556,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 8 meses, 13 dias",F,Preta,Não Informado,Não Informado,Não Informado
+557,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 0 meses, 2 dias",F,Branca,Não Informado,Não Informado,Não Informado
+558,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 2 meses, 9 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+559,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","6 anos, 6 meses, 7 dias",M,Ignorado,Não,Não,Não
+560,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 8 meses, 10 dias",M,Branca,Não Informado,Não Informado,Não Informado
+561,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 8 meses, 22 dias",M,Ignorado,Não,Não,Não
+562,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 6 meses, 7 dias",M,Parda,Não Informado,Não Informado,Não Informado
+563,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 7 meses, 9 dias",M,Parda,Não Informado,Não Informado,Não Informado
+564,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 1 meses, 17 dias",F,Parda,Não Informado,Não Informado,Não Informado
+565,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 8 meses, 31 dias",F,Parda,Não Informado,Não Informado,Não Informado
+566,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","13 anos, 4 meses, 19 dias",M,Parda,Não,Não,Não
+567,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 2 meses, 24 dias",M,Preta,Não Informado,Não Informado,Não Informado
+568,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 0 meses, 7 dias",M,Branca,Não Informado,Não Informado,Não Informado
+569,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 7 meses, 10 dias",F,Parda,Não Informado,Não Informado,Não Informado
+570,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 5 meses, 2 dias",M,Ignorado,Não,Não,Não
+571,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 3 meses, 6 dias",F,Parda,Não Informado,Não Informado,Não Informado
+572,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 0 meses, 22 dias",M,Parda,Não Informado,Não Informado,Não Informado
+573,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","8 anos, 0 meses, 24 dias",F,Ignorado,Não,Não,Não
+574,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","12 anos, 0 meses, 23 dias",M,Parda,Não Informado,Não Informado,Não Informado
+575,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"0 a 4 anos","1 anos, 5 meses, 13 dias",F,Branca,Não Informado,Não,Não Informado
+576,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"90 anos ou mais","95 anos, 7 meses, 21 dias",F,Parda,Não,Não,Não
+577,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"20 a 29 anos","23 anos, 11 meses, 20 dias",F,Preta,Não,Não,Não
+578,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","16 anos, 4 meses, 18 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+579,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 1 meses, 28 dias",F,Preta,Não Informado,Não Informado,Não Informado
+580,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"60 a 69 anos","69 anos, 3 meses, 30 dias",F,Branca,Não Informado,Não Informado,Não Informado
+581,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","64 anos, 10 meses, 20 dias",F,Branca,Não Informado,Não Informado,Não Informado
+582,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","58 anos, 11 meses, 7 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+583,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 8 meses, 5 dias",F,Parda,Não Informado,Não Informado,Não Informado
+584,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","38 anos, 6 meses, 13 dias",F,Branca,Não Informado,Não Informado,Não Informado
+585,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","69 anos, 9 meses, 16 dias",M,Preta,Não Informado,Não Informado,Não Informado
+586,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 8 meses, 24 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+587,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"50 a 59 anos","52 anos, 5 meses, 7 dias",F,Branca,Não,Não,Não
+588,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","36 anos, 3 meses, 7 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+589,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 1 meses, 10 dias",F,Branca,Não Informado,Não Informado,Não Informado
+590,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 5 meses, 19 dias",F,Branca,Não Informado,Não Informado,Não Informado
+591,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 8 meses, 1 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+592,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 8 meses, 15 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+593,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 9 meses, 9 dias",M,Parda,Não Informado,Não Informado,Não Informado
+594,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 5 meses, 19 dias",F,Branca,Não Informado,Não Informado,Não Informado
+595,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","53 anos, 8 meses, 29 dias",F,Branca,Não Informado,Não Informado,Não Informado
+596,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 9 meses, 29 dias",F,Branca,Não Informado,Não Informado,Não Informado
+597,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","74 anos, 5 meses, 23 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+598,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 6 meses, 20 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+599,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 4 meses, 14 dias",F,Branca,Não Informado,Não Informado,Não Informado
+600,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 10 meses, 2 dias",F,Preta,Não Informado,Não Informado,Não Informado
+601,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 0 meses, 22 dias",F,Parda,Não Informado,Não Informado,Não Informado
+602,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 10 meses, 11 dias",F,Preta,Não Informado,Não Informado,Não Informado
+603,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 9 meses, 26 dias",F,Branca,Não Informado,Não Informado,Não Informado
+604,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 11 meses, 21 dias",F,Branca,Não Informado,Não Informado,Não Informado
+605,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","55 anos, 3 meses, 31 dias",M,Preta,Não Informado,Não Informado,Não Informado
+606,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 3 meses, 20 dias",M,Parda,Não Informado,Não Informado,Não Informado
+607,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 8 meses, 1 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+608,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 10 meses, 22 dias",F,Branca,Não Informado,Não Informado,Não Informado
+609,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","61 anos, 2 meses, 21 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+610,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 3 meses, 10 dias",F,Parda,Não Informado,Não Informado,Não Informado
+611,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","51 anos, 10 meses, 3 dias",F,Parda,Não Informado,Não Informado,Não Informado
+612,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 0 meses, 15 dias",F,Preta,Não Informado,Não Informado,Não Informado
+613,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","55 anos, 6 meses, 8 dias",F,Branca,Não Informado,Não Informado,Não Informado
+614,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","14 anos, 11 meses, 4 dias",M,Parda,Não,Não,Não
+615,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 2 meses, 14 dias",F,Branca,Não Informado,Não Informado,Não Informado
+616,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 11 meses, 14 dias",F,Branca,Não Informado,Não Informado,Não Informado
+617,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","64 anos, 2 meses, 13 dias",F,Parda,Não Informado,Não Informado,Não Informado
+618,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 2 meses, 7 dias",M,Branca,Não Informado,Não Informado,Não Informado
+619,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"10 a 19 anos","16 anos, 1 meses, 11 dias",F,Parda,Não Informado,Não Informado,Não Informado
+620,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 8 meses, 25 dias",M,Ignorado,Não,Não,Não
+621,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 5 meses, 7 dias",F,Branca,Não Informado,Não Informado,Não Informado
+622,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 6 meses, 29 dias",F,Branca,Não Informado,Não Informado,Não Informado
+623,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 4 meses, 6 dias",F,Parda,Não Informado,Não Informado,Não Informado
+624,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 0 meses, 1 dias",F,Parda,Não Informado,Não Informado,Não Informado
+625,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 5 meses, 16 dias",M,Parda,Não Informado,Não Informado,Não Informado
+626,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 6 meses, 13 dias",M,Ignorado,Não,Não,Não
+627,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 10 meses, 20 dias",M,Preta,Não Informado,Não Informado,Não Informado
+628,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 9 meses, 5 dias",F,Branca,Não Informado,Não Informado,Não Informado
+629,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","41 anos, 1 meses, 24 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+630,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 10 meses, 3 dias",F,Branca,Não Informado,Não Informado,Não Informado
+631,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 9 meses, 2 dias",F,Parda,Não Informado,Não Informado,Não Informado
+632,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 5 meses, 7 dias",F,Preta,Não Informado,Não Informado,Não Informado
+633,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 2 meses, 19 dias",F,Branca,Não,Não Informado,Não Informado
+634,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 2 meses, 27 dias",F,Branca,Não Informado,Não Informado,Não Informado
+635,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 6 meses, 17 dias",F,Branca,Não Informado,Não Informado,Não Informado
+636,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","33 anos, 10 meses, 15 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+637,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 4 meses, 8 dias",F,Parda,Não Informado,Não Informado,Não Informado
+638,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 7 meses, 15 dias",M,Branca,Não Informado,Não Informado,Não Informado
+639,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"20 a 29 anos","27 anos, 8 meses, 23 dias",F,Branca,Não Informado,Não Informado,Não Informado
+640,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","60 anos, 5 meses, 16 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+641,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 2 meses, 27 dias",M,Parda,Não Informado,Não Informado,Não Informado
+642,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","29 anos, 3 meses, 15 dias",F,Parda,Não,Não,Não
+643,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","4 anos, 1 meses, 16 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+644,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 8 meses, 27 dias",F,Parda,Não,Não,Não
+645,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","7 anos, 7 meses, 19 dias",M,Parda,Não Informado,Não Informado,Não Informado
+646,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 5 meses, 23 dias",M,Preta,Não Informado,Não Informado,Não Informado
+647,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 6 meses, 5 dias",M,Parda,Não,Não,Não
+648,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","24 anos, 2 meses, 14 dias",F,Parda,Não,Não,Não
+649,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 0 meses, 9 dias",M,Amarela,Não,Não,Não
+650,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 3 meses, 31 dias",M,Branca,Não Informado,Não Informado,Não Informado
+651,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 8 meses, 17 dias",F,Parda,Não,Não,Não Informado
+652,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","67 anos, 3 meses, 10 dias",F,Parda,Não,Não,Não
+653,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 7 meses, 26 dias",F,Parda,Não,Não,Não
+654,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 4 meses, 17 dias",F,Amarela,Não,Não,Não
+655,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 1 meses, 8 dias",F,Parda,Não,Não,Não
+656,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","11 anos, 3 meses, 18 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+657,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 3 meses, 19 dias",M,Parda,Não Informado,Não Informado,Não Informado
+658,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 4 meses, 7 dias",M,Parda,Não,Não,Não
+659,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"05 a 9 anos","8 anos, 1 meses, 27 dias",M,Ignorado,Não,Não,Não
+660,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 9 meses, 1 dias",M,Parda,Não,Não,Não
+661,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 9 meses, 17 dias",F,Preta,Não,Não,Não
+662,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"40 a 49 anos","41 anos, 8 meses, 4 dias",M,Branca,Não,Ignorado,Ignorado
+663,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 1 meses, 24 dias",F,Parda,Não Informado,Não Informado,Não Informado
+664,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 2 meses, 28 dias",M,Parda,Não,Não,Não
+665,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 0 meses, 3 dias",F,Parda,Não Informado,Sim,Não Informado
+666,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 11 meses, 13 dias",F,Parda,Não,Não,Não
+667,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","31 anos, 1 meses, 3 dias",M,Parda,Não Informado,Não Informado,Não Informado
+668,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","61 anos, 7 meses, 4 dias",F,Branca,Não Informado,Não Informado,Não Informado
+669,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","76 anos, 5 meses, 10 dias",F,Branca,Não,Não,Não
+670,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 9 meses, 19 dias",M,Amarela,Não,Ignorado,Não
+671,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 7 meses, 6 dias",F,Parda,Não,Não,Não
+672,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 10 meses, 28 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+673,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"50 a 59 anos","50 anos, 4 meses, 10 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+674,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 10 meses, 2 dias",F,Parda,Não,Não,Não
+675,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 9 meses, 27 dias",F,Parda,Não Informado,Não Informado,Não Informado
+676,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 7 meses, 19 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+677,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 11 meses, 10 dias",M,Parda,Não Informado,Não Informado,Não Informado
+678,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"50 a 59 anos","55 anos, 3 meses, 9 dias",M,Parda,Não Informado,Não Informado,Não Informado
+679,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 7 meses, 7 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+680,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"40 a 49 anos","47 anos, 0 meses, 6 dias",F,Indigena,Não Informado,Não Informado,Não Informado
+681,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 1 meses, 19 dias",F,Branca,Não Informado,Não Informado,Não Informado
+682,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"10 a 19 anos","19 anos, 6 meses, 16 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+683,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","70 anos, 9 meses, 8 dias",M,Branca,Não Informado,Não Informado,Não Informado
+684,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 0 meses, 13 dias",F,Parda,Não,Não,Não
+685,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","24 anos, 6 meses, 21 dias",F,Parda,Não Informado,Não Informado,Não Informado
+686,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 4 meses, 28 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+687,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","1 anos, 8 meses, 3 dias",F,Branca,Não Informado,Não Informado,Não Informado
+688,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 2 meses, 21 dias",F,Amarela,Não,Não,Não
+689,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"60 a 69 anos","69 anos, 0 meses, 24 dias",F,Parda,Não Informado,Não Informado,Não Informado
+690,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","33 anos, 6 meses, 15 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+691,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","40 anos, 5 meses, 8 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+692,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 5 meses, 17 dias",F,Parda,Não,Não,Não
+693,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 1 meses, 10 dias",F,Branca,Ignorado,Não,Não
+694,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","28 anos, 8 meses, 5 dias",M,Parda,Não Informado,Não Informado,Não Informado
+695,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 11 meses, 22 dias",F,Preta,Não,Não,Não
+696,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","36 anos, 4 meses, 11 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+697,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 3 meses, 9 dias",M,Parda,Não Informado,Não Informado,Não Informado
+698,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"40 a 49 anos","42 anos, 3 meses, 11 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+699,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","30 anos, 5 meses, 27 dias",F,Branca,Não Informado,Não Informado,Não Informado
+700,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 0 meses, 21 dias",M,Parda,Não Informado,Não Informado,Não Informado
+701,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 3 meses, 24 dias",F,Preta,Não Informado,Não Informado,Não Informado
+702,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","4 anos, 4 meses, 31 dias",F,Parda,Não Informado,Não Informado,Não Informado
+703,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 8 meses, 10 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+704,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 3 meses, 20 dias",F,Parda,Não,Não,Não
+705,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","35 anos, 4 meses, 31 dias",F,Parda,Não Informado,Não Informado,Não Informado
+706,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 5 meses, 3 dias",M,Branca,Não,Não,Não
+707,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","21 anos, 0 meses, 29 dias",F,Parda,Não,Não,Não
+708,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","68 anos, 11 meses, 29 dias",F,Parda,Não,Não Informado,Não Informado
+709,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","14 anos, 8 meses, 12 dias",M,Branca,Não,Não,Não
+710,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","39 anos, 11 meses, 18 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+711,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","10 anos, 8 meses, 3 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+712,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"50 a 59 anos","55 anos, 7 meses, 8 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+713,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 8 meses, 5 dias",F,Amarela,Não,Não,Não
+714,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","38 anos, 5 meses, 22 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+715,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","24 anos, 1 meses, 30 dias",F,Branca,Não Informado,Não,Não Informado
+716,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","33 anos, 5 meses, 15 dias",M,Parda,Não Informado,Não Informado,Não Informado
+717,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 10 meses, 1 dias",F,Parda,Não Informado,Não Informado,Não Informado
+718,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"60 a 69 anos","60 anos, 6 meses, 17 dias",M,Branca,Não,Não,Não
+719,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 3 meses, 26 dias",F,Preta,Não Informado,Não Informado,Não Informado
+720,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 6 meses, 7 dias",M,Branca,Não Informado,Não Informado,Não Informado
+721,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 6 meses, 25 dias",M,Branca,Não Informado,Não Informado,Não Informado
+722,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 7 meses, 17 dias",M,Branca,Não Informado,Não Informado,Não Informado
+723,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","11 anos, 1 meses, 11 dias",F,Branca,Não Informado,Não Informado,Não Informado
+724,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 3 meses, 10 dias",F,Branca,Não Informado,Não Informado,Não Informado
+725,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 9 meses, 18 dias",F,Branca,Não Informado,Não Informado,Não Informado
+726,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","53 anos, 1 meses, 15 dias",F,Branca,Não Informado,Não Informado,Não Informado
+727,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","14 anos, 3 meses, 1 dias",F,Parda,Não,Não,Não Informado
+728,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"70 a 79 anos","79 anos, 9 meses, 11 dias",M,Ignorado,Não,Não,Não
+729,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 10 meses, 2 dias",F,Parda,Não Informado,Não Informado,Não Informado
+730,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 11 meses, 1 dias",F,Branca,Não Informado,Não Informado,Não Informado
+731,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 8 meses, 30 dias",M,Preta,Não Informado,Não Informado,Não Informado
+732,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","26 anos, 4 meses, 19 dias",M,Amarela,Não,Não,Não
+733,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","2 anos, 3 meses, 23 dias",M,Parda,Não,Não,Não
+734,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","1 anos, 2 meses, 6 dias",M,Ignorado,Não,Não,Não
+735,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","35 anos, 2 meses, 1 dias",M,Amarela,Não,Não,Não Informado
+736,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","3 anos, 1 meses, 5 dias",M,Parda,Não,Não,Não
+737,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 4 meses, 15 dias",F,Parda,Não,Não,Não
+738,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"70 a 79 anos","71 anos, 8 meses, 5 dias",M,Preta,Não,Não,Não
+739,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 11 meses, 12 dias",F,Branca,Não Informado,Não Informado,Não Informado
+740,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","14 anos, 9 meses, 17 dias",F,Preta,Não,Não,Não
+741,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","24 anos, 10 meses, 14 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+742,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 4 meses, 7 dias",F,Branca,Não Informado,Não Informado,Não Informado
+743,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","38 anos, 2 meses, 2 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+744,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"70 a 79 anos","70 anos, 10 meses, 11 dias",F,Branca,Não Informado,Não Informado,Não Informado
+745,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"70 a 79 anos","76 anos, 3 meses, 28 dias",F,Parda,Não Informado,Não Informado,Não Informado
+746,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"20 a 29 anos","23 anos, 6 meses, 13 dias",F,Parda,Não Informado,Não Informado,Não Informado
+747,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"60 a 69 anos","63 anos, 4 meses, 6 dias",M,Branca,Não Informado,Não Informado,Não Informado
+748,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 7 meses, 28 dias",F,Preta,Não Informado,Não Informado,Não Informado
+749,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 11 meses, 29 dias",F,Amarela,Não,Não,Não
+750,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"80 a 89 anos","85 anos, 3 meses, 15 dias",M,Branca,Não,Não,Não
+751,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 7 meses, 22 dias",M,Amarela,Não,Não,Não
+752,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","61 anos, 6 meses, 13 dias",M,Branca,Não,Não,Não
+753,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","61 anos, 9 meses, 6 dias",F,Parda,Não Informado,Não Informado,Não Informado
+754,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 3 meses, 31 dias",F,Parda,Não,Não,Não
+755,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","32 anos, 10 meses, 16 dias",F,Parda,Não Informado,Não Informado,Não Informado
+756,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"0 a 4 anos","1 anos, 0 meses, 3 dias",F,Parda,Não,Não,Não
+757,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 10 meses, 24 dias",M,Parda,Não Informado,Não Informado,Não Informado
+758,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 8 meses, 5 dias",M,Branca,Não Informado,Não Informado,Não Informado
+759,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","65 anos, 8 meses, 7 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+760,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"40 a 49 anos","41 anos, 1 meses, 20 dias",F,Preta,Não,Não,Não
+761,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","38 anos, 8 meses, 25 dias",F,Parda,Não,Não,Não
+762,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","37 anos, 4 meses, 23 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+763,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 8 meses, 12 dias",M,Amarela,Não Informado,Não,Não
+764,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 6 meses, 8 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+765,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"20 a 29 anos","24 anos, 2 meses, 1 dias",M,Parda,Não Informado,Não Informado,Não Informado
+766,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","39 anos, 1 meses, 7 dias",F,Preta,Não Informado,Não Informado,Não Informado
+767,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","33 anos, 4 meses, 28 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+768,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"20 a 29 anos","29 anos, 0 meses, 25 dias",M,Preta,Não Informado,Não Informado,Não Informado
+769,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","28 anos, 7 meses, 17 dias",F,Branca,Não Informado,Não,Não Informado
+770,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","8 anos, 0 meses, 8 dias",F,Preta,Não Informado,Não Informado,Não Informado
+771,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 1 meses, 11 dias",F,Branca,Não,Não,Não
+772,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 2 meses, 12 dias",F,Amarela,Não,Não,Não
+773,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"40 a 49 anos","46 anos, 11 meses, 11 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+774,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"50 a 59 anos","57 anos, 0 meses, 20 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+775,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"60 a 69 anos","63 anos, 7 meses, 3 dias",F,Parda,Não Informado,Não Informado,Não Informado
+776,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 9 meses, 26 dias",M,Branca,Não Informado,Não Informado,Não Informado
+777,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"0 a 4 anos","4 anos, 3 meses, 29 dias",M,Branca,Ignorado,Não Informado,Não Informado
+778,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 10 meses, 29 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+779,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 8 meses, 23 dias",F,Parda,Não Informado,Não Informado,Não Informado
+780,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","57 anos, 1 meses, 30 dias",F,Preta,Não Informado,Não Informado,Não Informado
+781,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 3 meses, 3 dias",F,Parda,Não Informado,Não Informado,Não Informado
+782,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"80 a 89 anos","84 anos, 4 meses, 16 dias",M,Branca,Não Informado,Não Informado,Não Informado
+783,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"70 a 79 anos","77 anos, 3 meses, 6 dias",F,Parda,Não Informado,Não Informado,Não Informado
+784,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"20 a 29 anos","24 anos, 11 meses, 18 dias",F,Parda,Não Informado,Não Informado,Não Informado
+785,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","36 anos, 5 meses, 26 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+786,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 7 meses, 3 dias",F,Parda,Ignorado,Não,Não
+787,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"20 a 29 anos","29 anos, 11 meses, 10 dias",F,Branca,Não Informado,Não Informado,Não Informado
+788,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","25 anos, 3 meses, 20 dias",F,Branca,Não,Não,Não
+789,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"70 a 79 anos","78 anos, 10 meses, 26 dias",M,Branca,Não Informado,Não,Não Informado
+790,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","30 anos, 9 meses, 9 dias",F,Parda,Não Informado,Não Informado,Não Informado
+791,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 2 meses, 27 dias",F,Parda,Não,Não,Não
+792,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 6 meses, 8 dias",F,Parda,Não Informado,Não Informado,Não Informado
+793,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 9 meses, 18 dias",F,Branca,Não,Não,Não
+794,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"10 a 19 anos","13 anos, 0 meses, 3 dias",M,Parda,Não Informado,Não Informado,Não Informado
+795,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","19 anos, 9 meses, 5 dias",F,Parda,Não,Não,Não
+796,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","27 anos, 2 meses, 1 dias",F,Ignorado,Não,Não,Não
+797,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"50 a 59 anos","50 anos, 1 meses, 2 dias",F,Branca,Não Informado,Não Informado,Não Informado
+798,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","40 anos, 6 meses, 25 dias",F,Preta,Não,Não,Não
+799,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 2 meses, 23 dias",F,Parda,Não Informado,Não,Não
+800,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 10 meses, 25 dias",F,Branca,Não,Não,Não
+801,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 10 meses, 22 dias",M,Ignorado,Não,Não,Não
+802,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"90 anos ou mais","92 anos, 5 meses, 8 dias",F,Amarela,Sim,Não Informado,Não Informado
+803,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 1 meses, 2 dias",F,Ignorado,Não,Não,Não
+804,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 3 meses, 31 dias",F,Ignorado,Não,Não,Não
+805,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","36 anos, 8 meses, 30 dias",M,Preta,Não,Não,Não
+806,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 10 meses, 1 dias",F,Amarela,Não,Não,Não
+807,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"20 a 29 anos","20 anos, 6 meses, 25 dias",M,Parda,Não Informado,Não Informado,Não Informado
+808,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 7 meses, 9 dias",M,Indigena,Não,Não,Não
+809,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"30 a 39 anos","33 anos, 4 meses, 31 dias",F,Branca,Não Informado,Não Informado,Não Informado
+810,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 0 meses, 9 dias",F,Parda,Não,Não,Não
+811,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","58 anos, 6 meses, 18 dias",M,Branca,Não Informado,Não,Não Informado
+812,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"10 a 19 anos","19 anos, 3 meses, 9 dias",F,Ignorado,Não,Não,Não
+813,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","66 anos, 11 meses, 4 dias",M,Amarela,Não Informado,Não,Não
+814,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 10 meses, 31 dias",F,Branca,Não,Não,Não
+815,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","56 anos, 6 meses, 22 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+816,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 7 meses, 5 dias",F,Ignorado,Não,Não,Não
+817,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 4 meses, 3 dias",F,Parda,Não,Não,Não
+818,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 4 meses, 29 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+819,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","61 anos, 2 meses, 23 dias",M,Ignorado,Não,Não,Não
+820,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 7 meses, 27 dias",M,Branca,Não,Não,Não
+821,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"60 a 69 anos","69 anos, 9 meses, 12 dias",M,Branca,Não Informado,Não,Não Informado
+822,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 6 meses, 27 dias",M,Branca,Não,Não,Não
+823,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 7 meses, 6 dias",M,Parda,Não Informado,Não Informado,Não Informado
+824,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","21 anos, 0 meses, 3 dias",M,Preta,Não Informado,Não Informado,Não Informado
+825,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 6 meses, 13 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+826,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 0 meses, 30 dias",M,Parda,Não,Não,Não
+827,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 3 meses, 30 dias",F,Preta,Não Informado,Não Informado,Não Informado
+828,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","30 anos, 0 meses, 20 dias",M,Parda,Não Informado,Não Informado,Não Informado
+829,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 6 meses, 18 dias",F,Parda,Não,Sim,Não
+830,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"05 a 9 anos","7 anos, 3 meses, 24 dias",F,Branca,Não,Não,Não
+831,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"30 a 39 anos","31 anos, 6 meses, 10 dias",F,Branca,Não Informado,Não,Não Informado
+832,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","69 anos, 7 meses, 29 dias",M,Branca,Não Informado,Não Informado,Não Informado
+833,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 2 meses, 8 dias",M,Branca,Não,Sim,Não Informado
+834,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 1 meses, 13 dias",F,Branca,Não Informado,Não Informado,Não Informado
+835,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"50 a 59 anos","53 anos, 5 meses, 25 dias",F,Branca,Não Informado,Não Informado,Não Informado
+836,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 0 meses, 1 dias",F,Preta,Não,Não,Não
+837,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"30 a 39 anos","33 anos, 9 meses, 27 dias",M,Preta,Não,Não,Não
+838,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"50 a 59 anos","53 anos, 5 meses, 8 dias",M,Parda,Não,Não,Não
+839,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","53 anos, 1 meses, 28 dias",M,Parda,Não,Não,Não
+840,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 11 meses, 1 dias",F,Preta,Não,Não,Não
+841,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 6 meses, 28 dias",M,Parda,Não Informado,Não Informado,Não Informado
+842,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 6 meses, 11 dias",F,Preta,Não,Não,Não
+843,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 5 meses, 14 dias",F,Parda,Não Informado,Não Informado,Não Informado
+844,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","67 anos, 0 meses, 13 dias",F,Preta,Não,Não,Não
+845,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 0 meses, 20 dias",M,Branca,Não Informado,Não Informado,Não Informado
+846,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 9 meses, 16 dias",F,Preta,Não,Não,Não
+847,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","25 anos, 2 meses, 1 dias",F,Parda,Não Informado,Não,Não Informado
+848,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","14 anos, 4 meses, 14 dias",F,Parda,Não Informado,Não Informado,Não Informado
+849,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 1 meses, 12 dias",F,Branca,Não,Não,Não
+850,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 1 meses, 17 dias",M,Parda,Não,Sim,Não
+851,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","8 anos, 9 meses, 27 dias",M,Parda,Não,Não,Não
+852,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"40 a 49 anos","45 anos, 3 meses, 28 dias",F,Parda,Não,Não,Não
+853,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 11 meses, 5 dias",F,Branca,Não Informado,Não Informado,Não Informado
+854,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","8 anos, 3 meses, 17 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+855,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 3 meses, 23 dias",F,Branca,Não Informado,Não Informado,Não Informado
+856,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"90 anos ou mais","90 anos, 6 meses, 21 dias",M,Branca,Não,Não,Não
+857,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","11 anos, 11 meses, 15 dias",F,Branca,Não Informado,Não Informado,Não Informado
+858,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 9 meses, 21 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+859,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","67 anos, 0 meses, 13 dias",M,Parda,Não,Não,Não
+860,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 4 meses, 31 dias",M,Branca,Não Informado,Não Informado,Não Informado
+861,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 11 meses, 27 dias",M,Branca,Não Informado,Não Informado,Não Informado
+862,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","33 anos, 4 meses, 9 dias",F,Parda,Não Informado,Não Informado,Não Informado
+863,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 4 meses, 28 dias",F,Parda,Não,Não,Não
+864,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 6 meses, 6 dias",F,Parda,Não,Não,Ignorado
+865,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Cura,"50 a 59 anos","55 anos, 5 meses, 28 dias",M,Parda,Não,Não,Não
+866,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"30 a 39 anos","39 anos, 3 meses, 23 dias",F,Parda,Não,Não,Não
+867,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"50 a 59 anos","58 anos, 4 meses, 10 dias",M,Ignorado,Não,Não,Não
+868,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 7 meses, 26 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+869,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 2 meses, 22 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+870,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","68 anos, 9 meses, 23 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+871,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 1 meses, 10 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+872,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 2 meses, 11 dias",F,Parda,Não,Não,Não
+873,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","65 anos, 3 meses, 9 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+874,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 7 meses, 17 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+875,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 0 meses, 24 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+876,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"40 a 49 anos","42 anos, 8 meses, 23 dias",F,Parda,Não Informado,Não Informado,Não Informado
+877,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"10 a 19 anos","19 anos, 0 meses, 16 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+878,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 1 meses, 11 dias",M,Branca,Não Informado,Não Informado,Não Informado
+879,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 2 meses, 12 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+880,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"0 a 4 anos","2 anos, 4 meses, 15 dias",M,Parda,Não Informado,Não Informado,Não Informado
+881,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 1 meses, 30 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+882,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","72 anos, 3 meses, 26 dias",M,Amarela,Não,Não,Não
+883,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","51 anos, 2 meses, 24 dias",M,Amarela,Não Informado,Não Informado,Não Informado
+884,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","46 anos, 6 meses, 3 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+885,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"05 a 9 anos","6 anos, 9 meses, 17 dias",M,Parda,Não,Ignorado,Não Informado
+886,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"50 a 59 anos","55 anos, 3 meses, 8 dias",F,Parda,Não,Não,Não
+887,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","1 anos, 3 meses, 5 dias",M,Parda,Não,Não,Não
+888,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","14 anos, 5 meses, 10 dias",F,Branca,Não,Não,Não
+889,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 10 meses, 30 dias",M,Parda,Não,Não,Não
+890,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","58 anos, 1 meses, 3 dias",M,Ignorado,Não,Ignorado,Ignorado
+891,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 3 meses, 31 dias",F,Branca,Não,Não,Não
+892,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 7 meses, 11 dias",F,Preta,Não,Não,Não
+893,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","54 anos, 0 meses, 29 dias",M,Ignorado,Não,Não,Não
+894,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 6 meses, 21 dias",M,Parda,Não Informado,Não,Ignorado
+895,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 1 meses, 26 dias",F,Parda,Ignorado,Não,Não Informado
+896,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 8 meses, 13 dias",M,Branca,Não,Não,Não
+897,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","73 anos, 9 meses, 7 dias",M,Parda,Ignorado,Ignorado,Ignorado
+898,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 7 meses, 8 dias",M,Branca,Não Informado,Não Informado,Não Informado
+899,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 1 meses, 30 dias",F,Branca,Não,Não,Não
+900,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","55 anos, 6 meses, 28 dias",F,Branca,Não,Não,Não
+901,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 2 meses, 15 dias",M,Branca,Não,Não,Não
+902,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 4 meses, 6 dias",M,Parda,Não,Não,Não
+903,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 4 meses, 23 dias",M,Parda,Não,Não,Não
+904,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","43 anos, 4 meses, 12 dias",M,Parda,Não,Não,Não
+905,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 6 meses, 9 dias",F,Parda,Não,Não,Não Informado
+906,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","32 anos, 3 meses, 7 dias",F,Branca,Não,Não,Não
+907,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","63 anos, 1 meses, 20 dias",F,Parda,Não,Não,Não
+908,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 2 meses, 20 dias",M,Parda,Não,Não,Não
+909,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","41 anos, 3 meses, 9 dias",F,Parda,Não,Não,Não
+910,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","61 anos, 5 meses, 19 dias",M,Parda,Não,Não,Não
+911,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","38 anos, 11 meses, 17 dias",M,Ignorado,Não,Não,Não
+912,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","68 anos, 1 meses, 16 dias",F,Parda,Não,Não,Não Informado
+913,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 8 meses, 15 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+914,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 8 meses, 27 dias",F,Parda,Não,Não,Não
+915,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 11 meses, 3 dias",M,Branca,Não,Não,Não
+916,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","68 anos, 6 meses, 20 dias",M,Parda,Não,Não,Não
+917,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","17 anos, 8 meses, 8 dias",F,Parda,Não,Não,Não
+918,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 1 meses, 1 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+919,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 0 meses, 14 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+920,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","67 anos, 5 meses, 15 dias",F,Parda,Não,Não,Não
+921,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","63 anos, 6 meses, 31 dias",M,Parda,Não,Não,Não
+922,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","26 anos, 10 meses, 6 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+923,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 2 meses, 1 dias",F,Parda,Não,Não,Não
+924,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 9 meses, 5 dias",M,Parda,Não,Não,Não
+925,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 10 meses, 23 dias",M,Amarela,Não,Não,Não
+926,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","10 anos, 1 meses, 30 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+927,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","11 anos, 4 meses, 18 dias",M,Branca,Não,Não,Não Informado
+928,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","21 anos, 4 meses, 30 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+929,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 1 meses, 11 dias",F,Branca,Não,Ignorado,Não Informado
+930,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","24 anos, 8 meses, 2 dias",M,Preta,Não Informado,Não Informado,Não Informado
+931,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"70 a 79 anos","79 anos, 0 meses, 2 dias",M,Branca,Não,Não,Não
+932,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"30 a 39 anos","33 anos, 8 meses, 14 dias",F,Parda,Não,Não,Não
+933,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","0 anos, 0 meses, 2 dias",M,Parda,Não Informado,Não Informado,Não Informado
+934,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","52 anos, 7 meses, 1 dias",F,Branca,Não,Não,Não Informado
+935,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,-,"20 a 29 anos","24 anos, 7 meses, 25 dias",M,Branca,Não Informado,Não Informado,Não Informado
+936,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 1 meses, 20 dias",F,Preta,Não Informado,Não Informado,Não Informado
+937,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"60 a 69 anos","61 anos, 8 meses, 13 dias",F,Parda,Não,Não,Não
+938,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","42 anos, 5 meses, 14 dias",F,Parda,Não,Não,Não
+939,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","49 anos, 0 meses, 1 dias",M,Amarela,Não,Não,Não
+940,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 0 meses, 9 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+941,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 2 meses, 16 dias",F,Branca,Não,Não,Não
+942,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 10 meses, 23 dias",F,Preta,Não,Não,Não
+943,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"20 a 29 anos","25 anos, 3 meses, 8 dias",F,Branca,Não,Não,Não
+944,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 1 meses, 29 dias",F,Parda,Não Informado,Não Informado,Não Informado
+945,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"50 a 59 anos","59 anos, 10 meses, 16 dias",M,Parda,Não,Não Informado,Não Informado
+946,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"20 a 29 anos","25 anos, 3 meses, 7 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+947,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"50 a 59 anos","54 anos, 8 meses, 17 dias",M,Branca,Não Informado,Não Informado,Não Informado
+948,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"10 a 19 anos","19 anos, 9 meses, 22 dias",M,Ignorado,Não,Não,Não
+949,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","20 anos, 10 meses, 11 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+950,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","59 anos, 7 meses, 23 dias",F,Parda,Não,Não,Não
+951,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","11 anos, 5 meses, 17 dias",F,Parda,Não Informado,Não Informado,Não Informado
+952,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Suspeito,Ignorado,"20 a 29 anos","20 anos, 1 meses, 10 dias",M,Parda,Não,Não,Não
+953,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 10 meses, 27 dias",F,Branca,Não Informado,Não Informado,Não Informado
+954,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"20 a 29 anos","25 anos, 4 meses, 28 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+955,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Ignorado,"30 a 39 anos","35 anos, 6 meses, 11 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+956,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 2 meses, 7 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+957,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 5 meses, 9 dias",F,Parda,Não Informado,Não Informado,Não Informado
+958,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","13 anos, 6 meses, 8 dias",F,Parda,Não Informado,Não Informado,Não Informado
+959,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 7 meses, 29 dias",F,Parda,Não Informado,Não,Não
+960,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 1 meses, 18 dias",M,Parda,Não,Não Informado,Não Informado
+961,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","38 anos, 7 meses, 30 dias",M,Preta,Não Informado,Não Informado,Não Informado
+962,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 6 meses, 27 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+963,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","26 anos, 9 meses, 1 dias",F,Parda,Não Informado,Não Informado,Não Informado
+964,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","44 anos, 3 meses, 31 dias",F,Parda,Não Informado,Não Informado,Não Informado
+965,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","45 anos, 8 meses, 12 dias",M,Parda,Não Informado,Não Informado,Não Informado
+966,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"80 a 89 anos","86 anos, 9 meses, 2 dias",F,Branca,Não,Não,Não
+967,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","37 anos, 1 meses, 30 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+968,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 10 meses, 13 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+969,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"30 a 39 anos","35 anos, 5 meses, 21 dias",M,Preta,Não Informado,Não Informado,Não Informado
+970,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","50 anos, 10 meses, 1 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+971,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,-,"40 a 49 anos","48 anos, 11 meses, 18 dias",F,Branca,Não,Não,Não
+972,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"40 a 49 anos","41 anos, 8 meses, 3 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+973,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"05 a 9 anos","9 anos, 8 meses, 26 dias",F,Branca,Não,Não,Não
+974,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"0 a 4 anos","0 anos, 6 meses, 24 dias",M,Parda,Não Informado,Não Informado,Não Informado
+975,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"05 a 9 anos","7 anos, 9 meses, 6 dias",M,Branca,Não,Não,Não
+976,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","23 anos, 5 meses, 1 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+977,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 11 meses, 16 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+978,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 1 meses, 27 dias",F,Amarela,Não,Não,Não
+979,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","30 anos, 11 meses, 3 dias",F,Amarela,Não Informado,Não Informado,Não Informado
+980,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","34 anos, 9 meses, 17 dias",F,Branca,Não,Não,Não
+981,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,-,"20 a 29 anos","28 anos, 6 meses, 30 dias",F,Parda,Não,Não,Não
+982,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","47 anos, 4 meses, 20 dias",F,Preta,Não Informado,Não Informado,Não Informado
+983,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"40 a 49 anos","48 anos, 11 meses, 17 dias",F,Parda,Não,Não,Não
+984,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","31 anos, 5 meses, 15 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+985,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","39 anos, 6 meses, 2 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+986,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","12 anos, 2 meses, 11 dias",M,Branca,Não Informado,Não Informado,Não Informado
+987,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","66 anos, 3 meses, 16 dias",F,Branca,Não,Não,Não
+988,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","27 anos, 0 meses, 3 dias",F,Ignorado,Não Informado,Não Informado,Não Informado
+989,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","24 anos, 4 meses, 22 dias",F,Branca,Não Informado,Não Informado,Não Informado
+990,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 8 meses, 6 dias",F,Branca,Não,Não Informado,Não Informado
+991,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"60 a 69 anos","65 anos, 7 meses, 29 dias",M,Parda,Não Informado,Não Informado,Não Informado
+992,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","25 anos, 6 meses, 17 dias",M,Ignorado,Não,Não,Não
+993,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"10 a 19 anos","18 anos, 1 meses, 1 dias",M,Parda,Não Informado,Não Informado,Não Informado
+994,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Confirmados,Cura,"20 a 29 anos","22 anos, 0 meses, 22 dias",M,Ignorado,Não Informado,Não Informado,Não Informado
+995,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"50 a 59 anos","56 anos, 2 meses, 22 dias",M,Branca,Não,Não,Não
+996,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","22 anos, 2 meses, 14 dias",M,Parda,Não Informado,Não Informado,Não Informado
+997,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"30 a 39 anos","35 anos, 7 meses, 4 dias",F,Parda,Não Informado,Não Informado,Não Informado
+998,1,1900-01-01 00:00:00,2199-12-31 23:59:59,Descartados,Ignorado,"20 a 29 anos","29 anos, 9 meses, 3 dias",M,Parda,Não,Não,Não
